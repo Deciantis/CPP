@@ -21,5 +21,9 @@ int main(int argc, const char * argv[]) {
     
     //c++11
     puts("Hello, New World");
+    
+    //Pointers
+    const char *strVar = "Hello, Pointer World!";
+    puts(strVar);
     return 0;
 }
