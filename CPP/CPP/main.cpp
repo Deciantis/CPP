@@ -18,5 +18,8 @@ int main(int argc, const char * argv[]) {
     std::cout << "Hello, World!\n";
     
     cout << "Yellow World!\n";
+    
+    //c++11
+    puts("Hello, New World");
     return 0;
 }
